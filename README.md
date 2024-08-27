@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date: 27.08.2024
+## Register Number: 212223100061
+## Name: viswanadham venkata sai sruthi
 ## Problem Title
 Development of e-Portal for facilitating Case Management Hearing of various types of cases
 ## Problem Description
